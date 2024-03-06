@@ -15,4 +15,3 @@ def pascal_triangle(n):
         row.append(1)
         init_list.append(row)
     return init_list
-
